@@ -1,0 +1,15 @@
+.mod {
+  position: fixed;
+  top: 25%;
+  left: 13%;
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+@media screen and (min-width: 700px) {
+  .mod {
+    position: fixed;
+    top: 25%;
+    left: 25%;
+    background-color: rgba(0, 0, 0, 0.3);
+  }
+}
